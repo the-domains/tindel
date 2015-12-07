@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Live painting commission by an amazing agency Huge Inc. located here in Atlanta.
-datePublished: '2015-12-07T02:21:24.770Z'
-dateModified: '2015-12-07T02:21:21.542Z'
+datePublished: '2015-12-07T02:23:40.979Z'
+dateModified: '2015-12-07T02:23:38.896Z'
 title: HUGE Commissioned Painting
 author: []
 sourcePath: _posts/2015-12-07-huge-commissioned-painting.md
@@ -22,6 +22,5 @@ url: huge-commissioned-painting/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/52031330-f8a3-443d-866d-c52407a3d4d0.jpg)
-
 This piece was commissioned by HUGE Inc. I started this piece in a dark corer during their holiday party and then finished it at the studio.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/52031330-f8a3-443d-866d-c52407a3d4d0.jpg)
