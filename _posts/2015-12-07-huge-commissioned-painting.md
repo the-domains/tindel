@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Live painting commission by an amazing agency Huge Inc. located here in Atlanta.
-datePublished: '2015-12-07T02:15:21.286Z'
-dateModified: '2015-12-07T02:15:18.041Z'
+datePublished: '2015-12-07T02:21:24.770Z'
+dateModified: '2015-12-07T02:21:21.542Z'
 title: HUGE Commissioned Painting
 author: []
 sourcePath: _posts/2015-12-07-huge-commissioned-painting.md
