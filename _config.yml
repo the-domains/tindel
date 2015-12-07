@@ -1,6 +1,6 @@
 name: Tindel
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.49851
 typography_spectrum: 0.91389
 title: The Art of John Tindel
 cta:
@@ -24,6 +24,6 @@ color:
     - '#6c6c6c'
   brandStrength: 0.3125
   lightness: 0.5
-  saturation: 0.25
+  saturation: 1
   rhythmicContrast: 1
 purpose: []
