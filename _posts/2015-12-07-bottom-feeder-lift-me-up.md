@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: A look into the progress and process of creating original artwork by artist John Tindel
-datePublished: '2015-12-07T02:02:09.179Z'
-dateModified: '2015-12-07T02:01:57.583Z'
+datePublished: '2015-12-07T02:02:55.265Z'
+dateModified: '2015-12-07T02:02:52.757Z'
 title: Bottom Feeder. Lift Me Up.
 author: []
+sourcePath: _posts/2015-12-07-bottom-feeder-lift-me-up.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-07-bottom-feeder-lift-me-up.md
-published: true
 url: bottom-feeder-lift-me-up/index.html
 _type: Article
 
