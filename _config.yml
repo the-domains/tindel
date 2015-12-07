@@ -1,6 +1,6 @@
 name: Tindel
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.78153
 typography_spectrum: 0.91389
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#00ffff'
-    - '#231f20'
-    - '#157374'
-    - '#0ea2a2'
-    - '#01c6c6'
+    - '#ffffff'
+    - '#000000'
+    - '#dedede'
+    - '#aeaeae'
+    - '#6c6c6c'
   brandStrength: 0.3125
-  lightness: 0.5
+  lightness: 1
   saturation: 1
-  rhythmicContrast: 0.75
+  rhythmicContrast: 1
 purpose: []
