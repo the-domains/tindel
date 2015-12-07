@@ -1,6 +1,6 @@
 name: Tindel
 favicon: null
-layout_spectrum: 0.77154
+layout_spectrum: 1
 typography_spectrum: 0.91389
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#157374'
     - '#0ea2a2'
     - '#01c6c6'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0.5
+  brandStrength: 0.3125
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
