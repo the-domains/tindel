@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: Process and progress of new painting from artist John Tindel.
-datePublished: '2015-12-07T02:43:00.315Z'
-dateModified: '2015-12-07T02:42:56.473Z'
+datePublished: '2015-12-07T14:16:06.101Z'
+dateModified: '2015-12-07T14:15:59.243Z'
 title: Bottom Feeder. Lift Me Up. (WIP)
 author: []
+sourcePath: _posts/2015-12-07-bottom-feeder-lift-me-up-wip.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-07-bottom-feeder-lift-me-up-wip.md
-published: true
 url: bottom-feeder-lift-me-up-wip/index.html
 _type: Article
 
@@ -30,4 +30,4 @@ This is a new piece that I am working on. It was brought out of storage last mon
 I'll start this process after about of month of work. I am starting on adding mountains in the background and detailing the catfish at the bottom. I want to bring in the scenery of the American South.
 
 Also, one of the processes that I am bringing back in my new paintings is "throwing myself off". Doing and adding things to the piece that don't fit, that don't make sense. Why? I have to make it work. Add neon pink to the painting... make neon pink work in the painting.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91309131-e397-4487-b152-86ca06870802.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5f7fb2c4241aa92ae107d28a620eb9a301035e1.jpg)
