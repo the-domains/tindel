@@ -4,7 +4,7 @@
         <description><![CDATA[The Art of John Tindel]]></description>
         <link>https://thegrid.ai/tindel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Dec 2015 14:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Dec 2015 14:31:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tindel/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bottom Feeder. Lift Me Up. (WIP)]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/tindel/bottom-feeder-lift-me-up-wip/index.html</link>
             <guid isPermaLink="false">322ac791-27d7-46a8-a8b7-3c6ae5743570</guid>
             <pubDate>Mon, 07 Dec 2015 14:17:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TCP + The Goat Farm = My Fist Studio]]></title>
+            <description><![CDATA[<article><h1>TCP + The Goat Farm = My Fist Studio</h1><p>So proud and happy to announce that I will be part of the 2015-2017 TCP Artist in Residency Studio program. I now have a studio at the Goat Farm Arts Center. So excited to be able to work with new folks and utilize a space simply for creation. Great group of artists and look forward to sharing more as this opportunity evolves.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/647a66e912f9ace346aa8e9202457467c122ead1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tindel/tcp-the-goat-farm-my-fist-studio/index.html</link>
+            <guid isPermaLink="false">86ce33e5-afd3-496c-b92e-f25f0506befb</guid>
+            <pubDate>Mon, 07 Dec 2015 14:31:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
