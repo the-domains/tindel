@@ -1,6 +1,6 @@
 name: Tindel
 favicon: null
-layout_spectrum: 0.76401
+layout_spectrum: 0.50596
 typography_spectrum: 0.65045
 title: The Art of John Tindel
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#181617'
-    - '#575757'
-    - '#8d8d8d'
-    - '#c6c6c6'
+    - '#000002'
+    - '#fee7fd'
+    - '#463231'
+    - '#7b5f63'
+    - '#fcaaa1'
   brandStrength: 0
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
