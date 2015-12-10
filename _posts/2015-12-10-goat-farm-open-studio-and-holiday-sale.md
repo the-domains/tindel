@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-10T14:19:52.439Z'
-dateModified: '2015-12-10T14:19:42.332Z'
+datePublished: '2015-12-10T14:20:23.305Z'
+dateModified: '2015-12-10T14:20:11.060Z'
 title: 'Goat Farm Open Studio & Holiday Sale.'
 author: []
 authors: []
