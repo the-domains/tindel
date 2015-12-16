@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Process and progress of new painting from artist John Tindel.
-datePublished: '2015-12-10T14:26:40.153Z'
-dateModified: '2015-12-10T14:26:31.756Z'
+datePublished: '2015-12-16T15:10:36.251Z'
+dateModified: '2015-12-16T15:10:32.981Z'
 title: Bottom Feeder. Lift Me Up. (WIP)
 author: []
 sourcePath: _posts/2015-12-07-bottom-feeder-lift-me-up-wip.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Bottom Feeder. Lift Me Up. (WIP)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6c50a0a3f632480df7bfa6999dc410aacc5fee4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccb60aab0bf4dc5bafb64e5d42835b7e4ab62e2a.jpg)
 
 This is a new piece that I am working on. It was brought out of storage last month and I began to transform it into a new painting. I really wanted to start to create a deeper scene, with more layers.
 
