@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-10T14:27:50.820Z'
-dateModified: '2015-12-10T14:27:42.946Z'
+datePublished: '2015-12-16T15:08:18.258Z'
+dateModified: '2015-12-10T20:54:59.311Z'
 title: TCP + The Goat Farm = My First Studio
 author: []
 sourcePath: _posts/2015-12-08-tcp-the-goat-farm-my-first-studio.md
