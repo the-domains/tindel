@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.facebook.com/tindelart/photos/a.451617710753.245833.312153885753/10153364863525754/?type=3'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - tindel
   - viewerdownloadmake
@@ -17,8 +17,8 @@ keywords:
   - oldwoodstillhard
   - fafatl
 description: 'Some coming free. Some about to be available online. #Tindel #johntindel #oldwoodstillhard #thecreativelife #fafatl #fafatlanta #freeartfriday'
-datePublished: '2016-01-19T14:37:35.639Z'
-dateModified: '2016-01-19T14:37:28.279Z'
+datePublished: '2016-01-19T14:37:57.850Z'
+dateModified: '2016-01-19T14:37:50.499Z'
 author:
   - avatar:
       src: 'https://scontent.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/p720x720/12509275_10153364863525754_6175976341929898467_n.jpg?oh=e6171464635508a8a4aa2a96e6e3bdc4&oe=57030E20'
