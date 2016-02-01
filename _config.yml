@@ -1,7 +1,7 @@
 name: Tindel
 favicon: null
-layout_spectrum: 0.50443
-typography_spectrum: 0.31516
+layout_spectrum: 0.26949
+typography_spectrum: 0.15499
 title: ACreative Life in the American South
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#737277'
     - '#9ab4cf'
     - '#911632'
-  brandStrength: 0.0625
+  brandStrength: 0
   lightness: 1
   saturation: 1
   rhythmicContrast: 0
