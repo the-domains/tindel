@@ -19,7 +19,11 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Tindel
+author:
+  name: The Creative Life
+  email: info@thecreativelife.com
+  url: 'http://thecreativelife.com'
+name: Imagination Bureau
 cta:
   domain: null
   bucket: null
